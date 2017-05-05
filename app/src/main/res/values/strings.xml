@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">AndroidLabs</string>
+    <string name="message">Hello World from Michael!</string>
+    <string name="title_activity_login">Sign in</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_username">Username</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_lowercase_password">Try using upper-case!</string>
+    <string name="error_attempt">Too many attempts! Please try again after 30 Seconds</string>
+    <string name="show_password">Show</string>
+
+    <string name="error_invalid_password">Invalid Password</string>
+    <string name="error_incorrect_password">Invalid Password</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+</resources>
